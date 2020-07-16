@@ -1,7 +1,4 @@
-'''
-PROBLEM STATEMENT
-Write a Program to check whether a user given number is prime or not
-'''
+# Write a Program to check whether a user given number is prime or not
 
 num = int(input("Enter a number: "))
 
