@@ -1,4 +1,5 @@
-# List ‘X’ contains both positive and negative integers. Sort the list# depending on the absolute values of the elements. The sorted list
+# List ‘X’ contains both positive and negative integers. Sort the list
+# depending on the absolute values of the elements. The sorted list
 # should have the actual initial values of the elements. Do not use
 # function ‘sorted()’.
 
